@@ -1,0 +1,32 @@
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe.config
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.pdb
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csprojAssemblyReference.cache
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Form1.resources
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Properties.Resources.resources
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.GenerateResource.cache
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.CoreCompileInputs.cache
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.exe
+C:\Users\pc6sb-7\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.pdb
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe.config
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\bin\Debug\proyectoV2.pdb
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csprojAssemblyReference.cache
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Form1.resources
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Properties.Resources.resources
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.GenerateResource.cache
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.CoreCompileInputs.cache
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.exe
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.pdb
+C:\Users\indep\source\repos\proyectoV2\proyectoV2\obj\Debug\proyectoV2.definicionVarianza.resources
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe.config
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\bin\Debug\proyectoV2.exe
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\bin\Debug\proyectoV2.pdb
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csprojAssemblyReference.cache
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.definicionVarianza.resources
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Form1.resources
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.Properties.Resources.resources
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.GenerateResource.cache
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.csproj.CoreCompileInputs.cache
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.exe
+C:\Users\indep\Documents\Universidad\Primer Semestre\Fundamentos de Programación\proyectoV2\proyectoV2\obj\Debug\proyectoV2.pdb
